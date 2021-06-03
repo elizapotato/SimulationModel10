@@ -1,0 +1,10 @@
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\bin\Debug\Simulation-10.exe.config
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\bin\Debug\Simulation-10.exe
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\bin\Debug\Simulation-10.pdb
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation-10.csproj.AssemblyReference.cache
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation_10.Form1.resources
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation_10.Properties.Resources.resources
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation-10.csproj.GenerateResource.cache
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation-10.csproj.CoreCompileInputs.cache
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation-10.exe
+C:\Users\liza_\source\repos\Simulation-10\Simulation-10\obj\Debug\Simulation-10.pdb
